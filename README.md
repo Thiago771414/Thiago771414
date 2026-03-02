@@ -17,8 +17,11 @@ FullStack & Distributed Systems Engineer focused on scalable architectures and a
 
 ## 🚀 Featured Projects
 
-- 🔹 [MiniShop — Event-Driven Distributed System](link)
-- 🔹 [Augmented Reality Research (Bachelor Thesis)](link)
+- 🔹 **[MiniShop — Event-Driven Distributed System](https://github.com/Thiago771414/case-real-de-engenharia-distribu-da)**  
+  Production-grade event-driven backend with Kafka, outbox pattern and observability stack.
+
+- 🔹 **[Augmented Reality Research (Bachelor Thesis)](https://github.com/Thiago771414/bachelor-thesis-augmented-reality)**  
+  Undergraduate research on AR ecosystems, education impact and sustainability analysis.
 
 ---
 

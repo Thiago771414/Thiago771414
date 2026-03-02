@@ -1,16 +1,39 @@
-## Hi there 👋
+# Thiago Reis Lima
 
-<!--
-**Thiago771414/Thiago771414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FullStack & Distributed Systems Engineer focused on scalable architectures and async processing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Focus
+
+- Distributed Systems
+- Event-Driven Architecture
+- Kafka & Async Processing
+- Idempotency & Reliability Patterns
+- Clean Architecture
+- Observability (Prometheus, Grafana)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 [MiniShop — Event-Driven Distributed System](link)
+- 🔹 [Augmented Reality Research (Bachelor Thesis)](link)
+
+---
+
+## 📚 Academic Background
+
+- Bachelor in Software Engineering
+- Academic Distinction in Logic for Computation
+- Academic Distinction in Differential and Integral Calculus
+- Sustainable Agents Award — Winner
+
+---
+
+## 🌎 Interests
+
+- System Design
+- Scalable Infrastructure
+- Sustainable Technology
+- Architecture Patterns

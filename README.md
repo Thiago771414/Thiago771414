@@ -27,7 +27,8 @@ FullStack & Distributed Systems Engineer focused on scalable architectures and a
 
 ## 📚 Academic Background
 
-- Bachelor in Software Engineering
+- Bachelor in Software Engineerin
+- Specialization course in Full Stack Web Development
 - Academic Distinction in Logic for Computation
 - Academic Distinction in Differential and Integral Calculus
 - Sustainable Agents Award — Winner
